@@ -36,7 +36,7 @@ This project fine-tunes Meta's LLaMA-3.2-1B-Instruct model to generate professio
 
 \`\`\`bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/mcq-generator.git
+git clone https://github.com/SaadImam2000/mcq-generator.git
 cd mcq-generator
 
 # Install dependencies
@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📞 Contact
 
-- **GitHub:** [@YOUR_USERNAME](https://github.com/SaadImam2000)
+- **GitHub:** [@SaadImam2000](https://github.com/SaadImam2000)
 - **Email:** saad.imam08@gmail.com
 
 ---

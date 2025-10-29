@@ -80,6 +80,7 @@ mcq-generator/
 │   ├── metrics/             # Evaluation results
 │   ├── examples/            # Showcase MCQs
 │   └── visualizations/      # Training curves
+├── mcq_generator.py
 \`\`\`
 
 ## 🎓 Model Architecture
